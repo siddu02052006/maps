@@ -1,0 +1,10 @@
+{
+    "cSpell.words": [
+        "geolocation",
+        "geospatial",
+        "Hackathon",
+        "Streamlit",
+        "venv"
+    ],
+    "python.analysis.autoImportCompletions": true
+}
